@@ -1,0 +1,4 @@
+cmake
+ninja
+python
+swig
